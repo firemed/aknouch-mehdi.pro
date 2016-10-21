@@ -301,7 +301,7 @@ p.title-detail{
 .about i.fa-coffee.hovicon.effect-1:after {box-shadow: 0 0 0 4px #676767;}
 
 
-.about i.fa-flask, .about i.fa-coffee, .about i.fa-rocket, .about i.fa-envelope{
+.about i.fa-flask, .about i.fa-coffee, .about i.fa-rocket, .about i.fa-envelope, .about i.fa-eye, .about i.fa-cubes, .about i.fa-cogs{
 	font-size:75px;
 	transition:all ease .5s;
 	-webkit-transition:all ease .5s;
