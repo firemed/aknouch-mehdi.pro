@@ -28,6 +28,10 @@
     color:black !important;
 }
 
+.white_txt{
+    color:white !important;
+}
+
 #banner .scroll{
     margin:0px;
 }
@@ -104,3 +108,78 @@
 #warp .subMenu.smint .container .navbar.navbar-default .collapse.navbar-collapse.dark-navi .navigation ul li a{
     font-size: 20px;
 }
+
+#footer-social{
+
+    padding: 50px;
+    text-align: center;
+
+}
+
+#footer-social h1{
+    margin:15px;
+}
+
+/* RESPONSIVE */
+
+
+/* Mobile */
+@media (max-width: 400px) {
+
+    #banner{
+        background-size: cover;
+        background-position: -233px 51px !important;
+    }
+
+    #banner .center{
+
+        margin-top: 40px;
+        font-size: 33px;
+    }
+
+    .pressroom .row{
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .contact .quick_contact {
+        width: auto;
+        margin: 16px auto 0 auto;
+    }
+
+    .contact .social a {
+
+        padding: 3px 10px 0px 10px;
+        /*margin: 5px 0 0 22px;*/
+
+    }
+
+    .contact .social h5 {
+        font-size: 21px;
+        padding-left: 0;
+    }
+
+    #fifth {
+        height: 819px !important;
+    }
+
+    .submit_btn{
+
+        left: 22% !important;
+        margin: 10px 0 0 0;
+    }
+
+#footer-social{
+    padding: 15px;
+    font-size:17px;
+}
+
+#footer-social h1{
+    font-size: 27px !important;
+    margin: 0 10px 10px 10px;
+}
+
+}
+
+
+/* RESPONSIVE --*/
